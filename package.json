@@ -1,6 +1,6 @@
 {
   "name": "lab-web",
-  "homepage": "https//ubc-tea.github.io",
+  "homepage": "https//ubc-tea.github.io/lab-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
