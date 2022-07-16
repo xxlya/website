@@ -1,7 +1,8 @@
 .header{
-  background-color: white;
+  position: absolute;
+  background-color: #f5a107;
   width: 100%;
-  margin: 0 auto;
+  margin-top: -10px;
 }
 
 .header-container {

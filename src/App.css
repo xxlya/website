@@ -23,4 +23,15 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  margin-top: 0;
+  padding: 0;
 }
+
+.app-heading{
+  /* position: absolute; */
+  z-index: 5555;
+  margin: 0;
+  padding: 0;
+}
+
+/* div{ padding:0; margin:0;} */

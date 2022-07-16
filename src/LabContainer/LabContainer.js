@@ -23,11 +23,11 @@ export default function LabContainer() {
 
   return (
     <div className="parent">
-      <div className="header">
+      {/* <div className="header">
         <Affix offsetTop={top}>
           <Header></Header>
         </Affix>
-      </div>
+      </div> */}
       <div className="lab-container">{mapAllScreens()}</div>
     </div>
   );

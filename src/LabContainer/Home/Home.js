@@ -9,6 +9,7 @@ export default function Home() {
     <div className="home-container" id="Home">
       {/* <Header/> */}
       <Profile />
+      <div>Acknowledgement</div>
       <Footer />
     </div>
   );
