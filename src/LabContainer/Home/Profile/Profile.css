@@ -1,0 +1,79 @@
+.profile-container {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 10%;
+  min-height: fit-content;
+}
+
+.profile-parent {
+  /* color of those text */
+  display: flex;
+  align-items: center;
+  color: rgb(10,90,64);
+}
+
+.profile-details-name {
+  /* Welcome Text */
+  font-size: 24px;
+  font-family: "Poppins SemiBold";
+}
+
+.profile-details-role {
+  /* Welcome Text */
+  display: flex;
+  flex-direction: column;
+  margin: 14px 0 24px 0;
+}
+
+.profile-details-role h1 {
+  font-family: Poppins Bold;
+  font-size: 40px;
+}
+
+.primary-text {
+  font-family: Poppins Bold;
+  color: (--white);
+}
+
+.profile-role-tagline {
+  /* Formal Description */
+  display: block;
+  font-size: 22px;
+  float: left; 
+  margin-right: 100px;
+  font-family: Poppins SemiBold;
+  width: 700px;
+  height: 300px; 
+  text-align:justify;
+  margin: auto;
+}
+
+.profile-picture {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 0px 0px var(--white);
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  margin: 0 100px 0 0px;
+  background-image: url("../../../assets/Home/xiaoxiao.jpg");
+  background-size: cover;
+}
+
+/* For ipad pro*/
+@media screen and (max-width: 1110px) {
+  .profile-picture {
+    margin: 0 0px 80px;
+  }
+
+  .profile-details-name {
+    font-size: 20px;
+  }
+
+  .profile-details-role .PRIMARY-TEXT {
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,29 @@
+.publication-introduction {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  width: 80%;
+  position: relative;
+  margin: 0 auto;
+}
+.publication-content {
+  width: 80%;
+  position: relative;
+  margin: 0 auto;
+}
+
+.publication-title {
+  font-family: Poppins SemiBold;
+  font-size: 18px;
+}
+
+.publication-autors {
+  font-family: Poppins Regular;
+  font-size: 16px;
+}
+
+.publication-journal {
+  font-family: Poppins Regular;
+  font-size: 16px;
+  font-style: italic;
+}

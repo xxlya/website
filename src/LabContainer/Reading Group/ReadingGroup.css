@@ -1,0 +1,9 @@
+.reading-intro{
+    /* display: flex; */
+    font-family: Poppins Medium;
+    font-size: 30px;
+    width: 90%;
+    position: relative;
+    margin: 0 10px 50px 50px;
+    justify-content: center;
+}

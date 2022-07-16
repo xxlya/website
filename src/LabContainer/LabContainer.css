@@ -1,0 +1,27 @@
+.parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header {
+  /* display: flex; */
+  position: absolute;
+  z-index: 5555;
+  /* margin: 0 0 0 0; */
+  /* flex-direction: column; */
+}
+
+.lab-container {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  position: absolute;
+}
+
+.screen {
+  display: flex;
+  flex-direction: column;
+  margin: 100px auto;
+  position: relative;
+}

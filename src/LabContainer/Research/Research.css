@@ -1,0 +1,48 @@
+.research-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0 0 0;
+}
+
+.research-parent {
+  max-width: 1000px;
+  width: 70%;
+}
+
+.research-projects {
+  width: 100%;
+  box-shadow: 0 0px 20px -2px #f5a107;
+  position: relative;
+}
+
+.project-image {
+  float: right;
+  width: 50%;
+  margin: 20px 0 20px 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.project-title {
+  font-family: Poppins SemiBold;
+  font-size: larger;
+  margin: 40px 0 0 0;
+}
+
+.project-details {
+  /* float:right; */
+  width: 48%;
+  text-align: justify;
+  padding: 30px;
+  font-family: Poppins Regular;
+}
+
+.bottom-bar {
+  height: 40px;
+  line-height: 27px;
+  border-bottom: 1px solid rgb(229, 229, 229);
+  background: none repeat scroll 0% 0% rgb(252, 252, 252);
+}
