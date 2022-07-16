@@ -1,6 +1,6 @@
 {
+  "homepage": "https//ubc-tea.github.io/lab-web",
   "name": "lab-web",
-  "homepage": "https//ubc-tea.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,11 +25,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "CI=false && react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
