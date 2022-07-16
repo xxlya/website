@@ -2,7 +2,7 @@
   "homepage": "https://ubc-tea.github.io/lab-web",
   "name": "lab-web",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
