@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/https//ubc-tea.github.io/lab-web/static/css/main.30d6af7a.css",
-    "main.js": "/https//ubc-tea.github.io/lab-web/static/js/main.17cc83ad.js",
-    "static/js/787.1ea11f21.chunk.js": "/https//ubc-tea.github.io/lab-web/static/js/787.1ea11f21.chunk.js",
-    "static/media/xiaoxiao.jpg": "/https//ubc-tea.github.io/lab-web/static/media/xiaoxiao.3043a1847b7e9a01bff1.jpg",
-    "static/media/bg.png": "/https//ubc-tea.github.io/lab-web/static/media/bg.9e62674313113e66a8ba.png",
-    "static/media/fedbn.png": "/https//ubc-tea.github.io/lab-web/static/media/fedbn.a2a7afac93c2dc5dca5b.png",
-    "static/media/gate.png": "/https//ubc-tea.github.io/lab-web/static/media/gate.bd7c53f20bad27b822dc.png",
-    "static/media/examine.png": "/https//ubc-tea.github.io/lab-web/static/media/examine.019898ce0410167969c4.png",
-    "static/media/class_impression.png": "/https//ubc-tea.github.io/lab-web/static/media/class_impression.7b3984b3b40657883a6a.png",
-    "static/media/Poppins-Thin.ttf": "/https//ubc-tea.github.io/lab-web/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
-    "static/media/Poppins-Light.ttf": "/https//ubc-tea.github.io/lab-web/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
-    "static/media/Poppins-Regular.ttf": "/https//ubc-tea.github.io/lab-web/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
-    "static/media/logo_transparent_background.png": "/https//ubc-tea.github.io/lab-web/static/media/logo_transparent_background.c3fee5b8e693d3e0a405.png",
-    "static/media/Poppins-Medium.ttf": "/https//ubc-tea.github.io/lab-web/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
-    "static/media/Poppins-SemiBold.ttf": "/https//ubc-tea.github.io/lab-web/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
-    "static/media/Poppins-Bold.ttf": "/https//ubc-tea.github.io/lab-web/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
-    "static/media/Poppins-ExtraBold.ttf": "/https//ubc-tea.github.io/lab-web/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
-    "index.html": "/https//ubc-tea.github.io/lab-web/index.html",
-    "main.30d6af7a.css.map": "/https//ubc-tea.github.io/lab-web/static/css/main.30d6af7a.css.map",
-    "main.17cc83ad.js.map": "/https//ubc-tea.github.io/lab-web/static/js/main.17cc83ad.js.map",
-    "787.1ea11f21.chunk.js.map": "/https//ubc-tea.github.io/lab-web/static/js/787.1ea11f21.chunk.js.map"
+    "main.css": "/lab-web/static/css/main.6feb026a.css",
+    "main.js": "/lab-web/static/js/main.5cdb5b57.js",
+    "static/js/787.1ea11f21.chunk.js": "/lab-web/static/js/787.1ea11f21.chunk.js",
+    "static/media/xiaoxiao.jpg": "/lab-web/static/media/xiaoxiao.3043a1847b7e9a01bff1.jpg",
+    "static/media/bg.png": "/lab-web/static/media/bg.9e62674313113e66a8ba.png",
+    "static/media/fedbn.png": "/lab-web/static/media/fedbn.a2a7afac93c2dc5dca5b.png",
+    "static/media/gate.png": "/lab-web/static/media/gate.bd7c53f20bad27b822dc.png",
+    "static/media/examine.png": "/lab-web/static/media/examine.019898ce0410167969c4.png",
+    "static/media/class_impression.png": "/lab-web/static/media/class_impression.7b3984b3b40657883a6a.png",
+    "static/media/Poppins-Thin.ttf": "/lab-web/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/lab-web/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/lab-web/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/logo_transparent_background.png": "/lab-web/static/media/logo_transparent_background.c3fee5b8e693d3e0a405.png",
+    "static/media/Poppins-Medium.ttf": "/lab-web/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/lab-web/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/lab-web/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/lab-web/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "index.html": "/lab-web/index.html",
+    "main.6feb026a.css.map": "/lab-web/static/css/main.6feb026a.css.map",
+    "main.5cdb5b57.js.map": "/lab-web/static/js/main.5cdb5b57.js.map",
+    "787.1ea11f21.chunk.js.map": "/lab-web/static/js/787.1ea11f21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30d6af7a.css",
-    "static/js/main.17cc83ad.js"
+    "static/css/main.6feb026a.css",
+    "static/js/main.5cdb5b57.js"
   ]
 }
