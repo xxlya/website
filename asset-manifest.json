@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lab-web/static/css/main.9ce047e2.css",
+    "main.css": "/lab-web/static/css/main.b63a8777.css",
     "main.js": "/lab-web/static/js/main.6c0b6c07.js",
     "static/js/787.1ea11f21.chunk.js": "/lab-web/static/js/787.1ea11f21.chunk.js",
     "static/media/xiaoxiao.jpg": "/lab-web/static/media/xiaoxiao.3043a1847b7e9a01bff1.jpg",
@@ -19,12 +19,12 @@
     "static/media/Poppins-ExtraBold.ttf": "/lab-web/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
     "static/media/nvidia.png": "/lab-web/static/media/nvidia.e6686c90b6151408b492.png",
     "index.html": "/lab-web/index.html",
-    "main.9ce047e2.css.map": "/lab-web/static/css/main.9ce047e2.css.map",
+    "main.b63a8777.css.map": "/lab-web/static/css/main.b63a8777.css.map",
     "main.6c0b6c07.js.map": "/lab-web/static/js/main.6c0b6c07.js.map",
     "787.1ea11f21.chunk.js.map": "/lab-web/static/js/787.1ea11f21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ce047e2.css",
+    "static/css/main.b63a8777.css",
     "static/js/main.6c0b6c07.js"
   ]
 }
