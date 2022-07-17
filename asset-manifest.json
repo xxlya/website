@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lab-web/static/css/main.6feb026a.css",
-    "main.js": "/lab-web/static/js/main.5cdb5b57.js",
+    "main.css": "/lab-web/static/css/main.9ce047e2.css",
+    "main.js": "/lab-web/static/js/main.6c0b6c07.js",
     "static/js/787.1ea11f21.chunk.js": "/lab-web/static/js/787.1ea11f21.chunk.js",
     "static/media/xiaoxiao.jpg": "/lab-web/static/media/xiaoxiao.3043a1847b7e9a01bff1.jpg",
     "static/media/bg.png": "/lab-web/static/media/bg.9e62674313113e66a8ba.png",
@@ -17,13 +17,14 @@
     "static/media/Poppins-SemiBold.ttf": "/lab-web/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
     "static/media/Poppins-Bold.ttf": "/lab-web/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
     "static/media/Poppins-ExtraBold.ttf": "/lab-web/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/nvidia.png": "/lab-web/static/media/nvidia.e6686c90b6151408b492.png",
     "index.html": "/lab-web/index.html",
-    "main.6feb026a.css.map": "/lab-web/static/css/main.6feb026a.css.map",
-    "main.5cdb5b57.js.map": "/lab-web/static/js/main.5cdb5b57.js.map",
+    "main.9ce047e2.css.map": "/lab-web/static/css/main.9ce047e2.css.map",
+    "main.6c0b6c07.js.map": "/lab-web/static/js/main.6c0b6c07.js.map",
     "787.1ea11f21.chunk.js.map": "/lab-web/static/js/787.1ea11f21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6feb026a.css",
-    "static/js/main.5cdb5b57.js"
+    "static/css/main.9ce047e2.css",
+    "static/js/main.6c0b6c07.js"
   ]
 }
