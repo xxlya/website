@@ -1,6 +1,7 @@
 import React from "react";
 import Profile from "./Profile/Profile";
-import Header from "./Header/Header";
+import Video from "./Video/Video";
+import Acknowledgement from "./Acknowledgement/Acknowledgement";
 import Footer from "./Footer/Footer";
 import "./Home.css";
 
@@ -9,7 +10,8 @@ export default function Home() {
     <div className="home-container" id="Home">
       {/* <Header/> */}
       <Profile />
-      <div>Acknowledgement</div>
+      <Video />
+      <Acknowledgement />
       <Footer />
     </div>
   );
