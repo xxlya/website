@@ -7,16 +7,16 @@ export default function Acknowledgement() {
             <div className="ack-title">Acknowledgement</div>
             <div class="row">
                 <div class="column">
-                    <img src={require("../../../assets/Home/nvidia.png")} width="150" height="100" />
+                    <img src={require("../../../assets/Home/nvidia.png")} width="200" height="100" />
                 </div>
                 <div class="column">
-                    <img src={require("../../../assets/Home/nvidia.png")} width="150" height="100" />
+                    <img src={require("../../../assets/Home/nvidia.png")} width="200" height="100" />
                 </div>
                 <div class="column">
-                    <img src={require("../../../assets/Home/nvidia.png")} width="150" height="100" />
+                    <img src={require("../../../assets/Home/nvidia.png")} width="200" height="100" />
                 </div>
                 <div class="column">
-                    <img src={require("../../../assets/Home/nvidia.png")} width="150" height="100" />
+                    <img src={require("../../../assets/Home/nvidia.png")} width="200" height="100" />
                 </div>
             </div>
         </div>
