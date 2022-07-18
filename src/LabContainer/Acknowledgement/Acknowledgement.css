@@ -7,8 +7,8 @@
     font-family: Poppins Bold;
     font-size: 30px;
     position: relative;
-    left: 40%;
-    margin: 10px 0 20px 0;
+    left: 45%;
+    margin: 5px 0 5px 0;
 }
 
 .row {
@@ -17,5 +17,5 @@
   
  .column {
     flex: 1%;
-    padding: 1px;
+    padding: 10px;
   }

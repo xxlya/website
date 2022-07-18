@@ -4,6 +4,7 @@ import People from "../LabContainer/People/People";
 import Research from "../LabContainer/Research/Research";
 import Publications from "../LabContainer/Publications/Publications";
 import Positions from "../LabContainer/Positions/Positions";
+import Acknowledgement from "../LabContainer/Acknowledgement/Acknowledgement";
 /* import ReadingGroup from "../LabContainer/Reading Group/ReadingGroup"; */
 
 export const TOTAL_SCREENS = [
@@ -30,6 +31,10 @@ export const TOTAL_SCREENS = [
     {
     screen_name: "Positions",
     component: Positions,
+  },
+        {
+    screen_name: "Acknowledgement",
+    component: Acknowledgement,
   },
 /*   {
     screen_name: "Reading Group",

@@ -1,14 +1,15 @@
 .header{
   position: absolute;
-  background-color: #ffffff;
+  background-color: #f3f4f6;
   width: 100%;
   margin-top: -10px;
+  margin-bottom: 10px;
 }
 
 .header-container {
   display: flex;
   justify-content: center;
-  height: 100px;
+  height: 120px;
   color: black;
 }
 
@@ -27,7 +28,7 @@
   width: 800px;
   background-image: url('../../../assets/Home/logo_transparent_background.png');
   background-repeat: no-repeat;
-  background-size: 300px 120px;
+  background-size: 260px 100px;
   background-position: left;
 }
 

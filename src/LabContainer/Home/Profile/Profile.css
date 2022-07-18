@@ -16,7 +16,7 @@
 
 .profile-details-name {
   /* Welcome Text */
-  font-size: 24px;
+  font-size: 18px;
   font-family: "Poppins SemiBold";
 }
 
@@ -40,11 +40,11 @@
 .profile-role-tagline {
   /* Formal Description */
   display: block;
-  font-size: 22px;
+  font-size: 18px;
   float: left; 
   margin-right: 100px;
   font-family: Poppins SemiBold;
-  width: 700px;
+  width: 600px;
   height: 300px; 
   text-align:justify;
   margin: auto;
