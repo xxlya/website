@@ -2,9 +2,9 @@ import React from "react";
 import ScreenHeading from "../../utilities/ScreenHeading/ScreenHeading";
 import "./Acknowledgement.css"
 
-export default function Acknowledgement() {
+export default function Acknowledgement(props) {
     return (
-        <div className="ack-parent">
+        <div className="ack-parent" id={props.id || ""}>
             <ScreenHeading title={"Acknowledgement"} subHeading={""} />
             <div class="row">
                 <div class="column">
