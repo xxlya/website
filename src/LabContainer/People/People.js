@@ -17,7 +17,7 @@ export default function People(props) {
       name: "Dr. Xiaoxiao Li",
       title: "PI",
       link: "https://xxlya.github.io/xiaoxiao/",
-      imgurl: require("../../assets/Home/xiaoxiao.jpg"),
+      imgurl: require("../../assets/portrait/pokemon0.png"),
     },
     {
       name: "Chun-Yin Huang",
@@ -34,7 +34,7 @@ export default function People(props) {
     {
       name: "Minghui Chen",
       title: "PhD (2022 - ), co-supervised with Dr. Zehua Wang at UBC ECE",
-      link: "www.google.com",
+      link: "https://chenminghui.com/",
       imgurl: require("../../assets/portrait/pokemon3.png"),
     },
     {
@@ -73,6 +73,12 @@ export default function People(props) {
       link: "www.google.com",
       imgurl: require("../../assets/portrait/pokemon9.png"),
     },
+      {
+      name: "Fatemeh Taheri Dezaki",
+      title: "Postdoc, now at Amazon ",
+      link: "www.google.com",
+      imgurl: require("../../assets/portrait/pokemon12.png"),
+    },
     {
       name: "Nan Wang",
       title: "Visiting Student",
@@ -84,12 +90,6 @@ export default function People(props) {
       title: "Visiting Student",
       link: "www.google.com",
       imgurl: require("../../assets/portrait/pokemon11.png"), 
-    },
-      {
-      name: "Fatemeh Taheri Dezaki",
-      title: "Postdoc, co-supervised with Dr. Purang Abolmaesum at UBC ECE, now at Amazon ",
-      link: "www.google.com",
-      imgurl: require("../../assets/portrait/pokemon12.png"),
     },
   ];
 
